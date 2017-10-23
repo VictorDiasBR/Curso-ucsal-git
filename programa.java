@@ -1,6 +1,12 @@
 public class programa{
 public static void main(String args[]){
-System.out.print("numero"+ math.randon());
+
+for(i=0;i<11;i++){
+
+System.out.println("Posição: "+i+"º jogador");
+}
+
+
 }
 
 }
