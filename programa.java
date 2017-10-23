@@ -1,7 +1,7 @@
 public class programa{
 public static void main(String args[]){
 
-System.out.println("Posição: "+ math.random+" ");
+System.out.print("Posição: "+ math.random);
 
 
 
